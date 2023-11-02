@@ -1,6 +1,6 @@
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moki.main@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:moki.main@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moki_Talkie)
-[![Github](https://img.shields.io/github/followers/mokiTalkie?label=Follow&style=social)](https://github.com/mokiTalkie)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/mokiTalkie)
 
 👋 Hey there! I'm a professional freelance Web Developer with a passion for creating innovative solutions. My expertise lies in Python and its web frameworks like Flask and FastAPI. I also have some experience in TypeScript and Angular.
 
